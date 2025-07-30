@@ -33,3 +33,8 @@ This is a simple and fun number guessing game written in C. The program randomly
 ```bash
 gcc number_guessing_game.c -o guess
 ./guess
+---
+
+## 👩‍💻 Author
+
+**Bhumi Sisodiya**
