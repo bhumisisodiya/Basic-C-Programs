@@ -30,11 +30,16 @@ This is a simple and fun number guessing game written in C. The program randomly
 
 ## 💻 How to Compile and Run
 
-```bash
-gcc number_guessing_game.c -o guess
-./guess
 ---
 
-## 👩‍💻 Author
+## 🌡️ Temperature Converter in C
 
-**Bhumi Sisodiya**
+This is a simple C program that converts temperature from Celsius to Fahrenheit.
+
+### 📁 File:
+[temperature_converter.c](temperature_converter.c)
+
+### 🔧 How to Compile and Run:
+```bash
+gcc temperature_converter.c -o temp
+./temp
